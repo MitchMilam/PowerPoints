@@ -1,4 +1,4 @@
-# Powerpoints
+# PowerPoints
 
 I was often asked during, or after, one of my presentations if I would give someone the actual PowerPoint deck that I used during the presentation. Most of the time, I would just send them a PDF copy of the presentation, which was fine for more cases.
 
