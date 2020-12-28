@@ -6,7 +6,7 @@ But, I got to thinking lately that maybe some of this material is useful for oth
 
 Some of this material is dated, some of actually quite new and still relevant to the current version of Dynamics 365, Power Platform, DataVerse, etc.
 
-These presentations (over 100 in all), represent nine years of delivering traning, conducting webinars, and speaking at conferences.
+These presentations (over 100 in all), represent nine years of delivering training, conducting webinars, and speaking at conferences.
 
 I should also note there are a few presentations on Xamarin mobile development, which I was doing for a while.
 
